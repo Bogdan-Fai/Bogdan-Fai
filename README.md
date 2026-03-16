@@ -37,4 +37,4 @@
 ---
 
 ### 📫 Как со мной связаться:
-[![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=Telegram)](https://t.me/ТВОЙ_НИК)
+[![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=Telegram)](https://t.me/BogdanFai)
