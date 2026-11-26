@@ -36,8 +36,13 @@
 
 ---
 
-### Статистика Leetcode
-![LeetCode Stats](https://Bogdan_Fai.cool)
+### 🧩 Статистика LeetCode
+
+<p align="left">
+  <a href="https://leetcode.com/Bogdan_Fai/">
+    <img src="https://leetcard.jacoblin.cool/Bogdan_Fai?theme=radical&ext=contest" alt="LeetCode Stats" />
+  </a>
+</p>
 
 
 ### 📫 Как со мной связаться:
