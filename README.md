@@ -37,7 +37,8 @@
 ---
 
 ### Статистика Leetcode
-![LeetCode Stats]([https://jacoblin.cool](https://leetcode.com/u/Bogdan_Fai/))
+![LeetCode Stats](https://jacoblin.cool)
+
 
 ### 📫 Как со мной связаться:
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=Telegram)](https://t.me/BogdanFai)
