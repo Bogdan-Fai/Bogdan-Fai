@@ -37,7 +37,7 @@
 ---
 
 ### Статистика Leetcode
-![LeetCode Stats](https://jacoblin.cool)
+![LeetCode Stats](https://Bogdan_Fai.cool)
 
 
 ### 📫 Как со мной связаться:
